@@ -1,0 +1,5 @@
+# Tetris - AI Project
+
+This project implements an AI agent that learns to play Tetris using Deep Q-Learning (DQN). The agent learns optimal strategies for piece placement through reinforcement learning, with the goal of maximizing score and survival time. The implementation includes extended shape variations, real-time visualization, and customizable game parameters. The AI model is trained using experience replay and can be tested in both training and evaluation modes.
+
+[Project Proposal](https://docs.google.com/document/d/1QK3IInobPcI9b-7iwtHxLA0Y6g81a1dShN7_srJf07c/edit?usp=sharing) | [Project Report](https://docs.google.com/document/d/1iTei7vXHYQECro4H9AgwAhI336-rQ59xR7BF-lLH9bw/edit?usp=sharing) | [Demo Video](https://drive.google.com/file/d/1CH5uKngMsXFNd13nJMqOckwJOFUc9haj/view?usp=sharing)
